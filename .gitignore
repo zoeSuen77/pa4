@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.local-data/
+.cache/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+
+# Local preparation materials
+/docs/
+/Start PA3.command
